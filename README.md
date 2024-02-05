@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Przemek2122
-- 👀 I’m interested in UE4, Game development, SDL2, C, C++17, Web (PHP, JS) @see http://przemek.epizy.com/
-- 🌱 I’m currently learning more about UE4.
+- 👀 I’m interested in UE4/UE5, Game development, SDL2, C, C++17, Web (PHP, JS) @see http://przemek.epizy.com/
+- 🌱 I’m currently learning more about Unreal and C++ with SDL2.
 - 📫 How to reach me?
-  - Use github
+  - Use GitHub
   - Use Discord Przemek2122#4675
 
 <!---
