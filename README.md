@@ -11,6 +11,7 @@ See my CV here: https://cv.sqrll.net/
 - Web (PHP, JS) @see https://sqrll.net/ or http://przemek.epizy.com/
 
 📫 How to reach me?
+  - https://www.linkedin.com/in/przemek2122/
   - Use mail przemyslaw.wiewiora.github@gmail.com (This is a secondary email due to security concerns. Although it's forwarded, I will read it quickly.)
   - Use Discord Przemek2122#4675
 
