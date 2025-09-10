@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Przemek2122
-- 👀 I’m interested in UE4/UE5, Game development, SDL2, C, C++17, Web (PHP, JS) @see http://przemek.epizy.com/
-- 🌱 I’m currently learning more about Unreal and C++ with SDL2.
-- 📫 How to reach me?
-  - Use GitHub
+👋 Hi, I’m @Przemek2122
+
+See my CV here: https://cv.sqrll.net/
+
+🌱I'm currently learning more about AI and 
+
+👀 I’m interested in:
+- Game development  -UE4/UE5,
+- SDL3,
+- C, C++17/C++20,
+- Web (PHP, JS) @see https://sqrll.net/ or http://przemek.epizy.com/
+
+📫 How to reach me?
+  - Use mail przemyslaw.wiewiora.github@gmail.com
   - Use Discord Przemek2122#4675
 
 <!---
