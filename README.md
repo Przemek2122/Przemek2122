@@ -2,12 +2,13 @@
 
 See my CV here: https://cv.sqrll.net/
 
-🌱I'm currently learning more about AI and 
+🌱I'm currently learning more about Encryption and decryption. (https://github.com/Przemek2122/Engine/blob/main/Engine/Source/Private/Misc/EncryptionUtil.cpp)
+Also I'm wokring on AI (using Google collab) sometimes. 
 
 👀 I’m interested in:
-- Game development  -UE4/UE5,
+- C++17/C++20
+- Game development - UE4/UE5,
 - SDL3,
-- C, C++17/C++20,
 - Web (PHP, JS) @see https://sqrll.net/ or http://przemek.epizy.com/
 
 📫 How to reach me?
