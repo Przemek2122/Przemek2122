@@ -4,7 +4,8 @@ See my CV here: https://cv.sqrll.net/
 
 🌱I'm currently learning more about Encryption and decryption. 
 (https://github.com/Przemek2122/Engine/blob/main/Engine/Source/Private/Misc/EncryptionUtil.cpp)
-Also I'm wokring on AI (using Google collab) sometimes. 
+
+I'm also creating communicator https://comm.sqrll.net/
 
 👀 I’m interested in:
 - C++17/C++20
