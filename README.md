@@ -1,7 +1,7 @@
 # Przemyslaw Wiewiora
 
 ### C++ Software Engineer | 5+ years
-Kraków | Seeking backend/fintech opportunities
+Kraków | Seeking backend/fintech opportunities (preferably, others may be interesting too)
 
 ---
 
@@ -17,9 +17,9 @@ Kraków | Seeking backend/fintech opportunities
 ---
 
 ### Tech Stack:
-- **Programming Languages:** C++17/20, C#, Python
-- **Platforms & Tools:** Linux, Docker, Jenkins, Git, Unreal Engine
+- **Programming Languages:** C++17/20, a bit of other languages (Java, C#, Python, )
+- **Platforms & Tools:** Linux, Docker, Jenkins, various version controll tools (Perforce, SVN, Git)
 
 ---
 
-🔥 I love creating software. Tons of random repos just prove that
+🔥 I love creating software. Tons of repos just prove that
