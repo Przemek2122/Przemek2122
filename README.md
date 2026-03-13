@@ -17,7 +17,7 @@ Kraków | Seeking backend/fintech opportunities (preferably, others may be inter
 ---
 
 ### Tech Stack:
-- **Programming Languages:** C++17/20, a bit of other languages (Java, C#, Python, )
+- **Programming Languages:** C++17/20, a bit of other languages (Java, C#, Python)
 - **Platforms & Tools:** Linux, Docker, Jenkins, various version controll tools (Perforce, SVN, Git)
 
 ---
