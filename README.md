@@ -3,6 +3,9 @@
 ### C++ Software Engineer | 5+ years
 Kraków | Seeking backend/fintech opportunities (preferably, others may be interesting too)
 
+I'm passinterested about low-latency and high-performance systems. 
+To explore these concepts, I developed the comm.sqrll.net backend in C++ using minimal-overhead frameworks like uWebSockets and CrowCpp to ensure maximum throughput.
+
 ---
 
 **📂 CV:** [cv.sqrll.net](http://cv.sqrll.net)  
