@@ -8,6 +8,11 @@ To explore these concepts, I developed the comm.sqrll.net backend in C++ using m
 
 ---
 
+### Tech Stack:
+- **Programming Languages:** C++17/20, a bit of other languages (GO, Java, C#, Python)
+- **Platforms & Tools:** Linux, Docker, CMake, Jenkins, various version controll tools (Perforce, SVN, Git)
+---
+
 **📂 CV:** [cv.sqrll.net](http://cv.sqrll.net)  
 **🚀 Demo:** [comm.sqrll.net](http://comm.sqrll.net)  
 
@@ -16,12 +21,6 @@ To explore these concepts, I developed the comm.sqrll.net backend in C++ using m
 ### Contact:
 **📇 LinkedIn:** [linkedin.com/in/przemek2122](https://linkedin.com/in/przemek2122)  
 **📧 Email:** przemyslaw.wiewiora.github@gmail.com
-
----
-
-### Tech Stack:
-- **Programming Languages:** C++17/20, a bit of other languages (Java, C#, Python)
-- **Platforms & Tools:** Linux, Docker, Jenkins, various version controll tools (Perforce, SVN, Git)
 
 ---
 
